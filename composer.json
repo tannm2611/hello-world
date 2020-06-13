@@ -1,6 +1,6 @@
 
 {
-    "name": "tannm/hello-world",
+    "name": "tannm2611/hello-world",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tannm\\SayHello\\": "src/"
+            "tannm2611\\SayHello\\": "src/"
         }
     }
 }
